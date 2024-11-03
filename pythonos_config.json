@@ -1,0 +1,14 @@
+{
+    "root": {
+        "password": "rootisawesome",
+        "level": "administrator"
+    },
+    "guest": {
+        "password": "guest",
+        "level": "normal"
+    },
+    "p\u0131nar": {
+        "password": "123",
+        "level": "normal"
+    }
+}
